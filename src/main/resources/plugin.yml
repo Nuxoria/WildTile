@@ -1,0 +1,8 @@
+name: WildTile
+version: '${project.version}'
+main: me.dev.nux.wildtile.WildTile
+authors: [ Nuxoria ]
+description: A mining plugin developed for WildMine network.
+depend:
+  - X-Prison
+  - helper
